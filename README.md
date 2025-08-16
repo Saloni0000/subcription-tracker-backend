@@ -47,7 +47,7 @@ subscription-tracker-main/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/subscription-tracker.git
+git clone https://github.com/Saloni0000/subcription-tracker-backend.git
 cd subscription-tracker
 ```
 
