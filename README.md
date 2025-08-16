@@ -3,7 +3,8 @@
 A Node.js & Express backend application to **manage subscriptions**, **track users**, and **send email notifications**.  
 This project is designed to help users keep track of their active subscriptions, automate reminders, and manage workflows.
 
-![Demo](https://github.com/Saloni0000/subcription-tracker-backend/blob/main/Screen%20Recording%202025-08-16%20at%208.57.54%20PM.gif)
+🎥 [Watch Demo Video](https://mysongbucketx.s3.eu-north-1.amazonaws.com/videos/Screen+Recording+2025-08-16+at+8.57.54%E2%80%AFPM.mov)
+
 
 
 ---
